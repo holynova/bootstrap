@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap",
+  "account_id": "ef7863c4de93e71c3496f940c8ab4865",
+  "compatibility_date": "2026-09-03",
+  "assets": {
+    "directory": "./.cloudflare/pages"
+  },
+  "routes": [
+    {
+      "pattern": "bootstrap.xiaosang.cc",
+      "custom_domain": true
+    }
+  ]
+}
